@@ -1,0 +1,30 @@
+h1,
+h3 {
+    text-align: center;
+    
+    color: hsl(240, 51%, 67%);
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+.link {
+    color: hsl(20, 100%, 40%);
+    font-size: 18px;
+    background-color: azure;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 28px;
+    background-color:blanchedalmond;
+}
+
+ol {
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: dodgerblue;
+}
+
